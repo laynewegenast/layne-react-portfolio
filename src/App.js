@@ -4,7 +4,7 @@ import About from './components/About';
 import Gallery from './components/Gallery';
 import ContactForm from './components/Contact';
 import Footer from './components/Footer';
-import Projects from './components/Projects'
+// import Projects from './components/Projects'
 
 function App() {
   const [contactSelected, setContactSelected] = useState(false);
