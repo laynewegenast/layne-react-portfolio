@@ -1,4 +1,4 @@
-# README Generator
+# React Portfolio
  ## Table of Contents
  - [Description](#description)
  - [Installation](#installation)
