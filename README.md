@@ -17,7 +17,10 @@ This portfolio contains an about me, contact page, links to both GitHub and Link
  ![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
 
  ## Screenshots
- 
+ ![Screen Shot 2022-06-26 at 10 10 12 PM](https://user-images.githubusercontent.com/96094719/175857329-c28682b8-d942-4b28-9643-34bdd09f0057.png)
+![Screen Shot 2022-06-26 at 10 10 37 PM](https://user-images.githubusercontent.com/96094719/175857339-33659755-7ebd-4940-9583-3d7df6284856.png)
+ ![Screen Shot 2022-06-26 at 10 10 19 PM](https://user-images.githubusercontent.com/96094719/175857350-9bc85989-8022-40a2-93bb-99d9935e13c2.png)
+
  ## Questions
   - GitHub: [laynewegenast(https://github.com/laynewegenast)]
   - Email: [layne.wegenast@gmail.com](mailto:example@example.com)
