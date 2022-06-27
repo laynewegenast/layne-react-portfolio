@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/layne-react-portfolio/static/css/main.f3d2cdfa.css",
-    "main.js": "/layne-react-portfolio/static/js/main.c42c3e87.js",
+    "main.js": "/layne-react-portfolio/static/js/main.1fd2bc08.js",
     "static/js/787.56625786.chunk.js": "/layne-react-portfolio/static/js/787.56625786.chunk.js",
     "static/media/IMG_7956_Original.jpg": "/layne-react-portfolio/static/media/IMG_7956_Original.8a5ba2c80349fd644054.jpg",
     "index.html": "/layne-react-portfolio/index.html",
     "main.f3d2cdfa.css.map": "/layne-react-portfolio/static/css/main.f3d2cdfa.css.map",
-    "main.c42c3e87.js.map": "/layne-react-portfolio/static/js/main.c42c3e87.js.map",
+    "main.1fd2bc08.js.map": "/layne-react-portfolio/static/js/main.1fd2bc08.js.map",
     "787.56625786.chunk.js.map": "/layne-react-portfolio/static/js/787.56625786.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f3d2cdfa.css",
-    "static/js/main.c42c3e87.js"
+    "static/js/main.1fd2bc08.js"
   ]
 }
