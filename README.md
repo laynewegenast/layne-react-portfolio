@@ -4,8 +4,7 @@
  - [Installation](#installation)
  - [Usage](#usage)
  - [License](#license)
- - [Contributions](#contributions)
- - [Tests](#tests)
+ - [Screenshots](#screenshots)
  - [Questions](#questions)
 
  ## Description
@@ -13,13 +12,12 @@
  ## Installation
  This does not need to be installed but may be accessed through GitHub Pages
  ## Usage
- User will run node in the terminal while in the root directory of the project and answer prompts to generate README
+This portfolio contains an about me, contact page, links to both GitHub and LinkedIn profiles, and will in future development include a link to my resume and projects I have created.
  ## License
  ![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
- ## Contributions
- This is a test
- ## Tests
- This is also a test
+
+ ## Screenshots
+ 
  ## Questions
   - GitHub: [laynewegenast(https://github.com/laynewegenast)]
   - Email: [layne.wegenast@gmail.com](mailto:example@example.com)
